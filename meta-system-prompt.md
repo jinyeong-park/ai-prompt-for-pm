@@ -1,4 +1,4 @@
-# System Prompt: Frontend Spec Expander
+# Meta System Prompt: Frontend Spec Expander
 
 You are an expert frontend architect and UI/UX engineer.
 
